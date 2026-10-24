@@ -1,0 +1,133 @@
+@import "tailwindcss";
+
+:root {
+  --green: #009b3a;
+  --green-deep: #0b6b2c;
+  --gold: #c9a227;
+  --gold-soft: #f4c430;
+  --navy: #002776;
+  --navy-mid: #1b365d;
+  --bg: #f7f4ea;
+  --bg-elev: #eef1ea;
+  --bg-card: #ffffff;
+  --line: rgba(27, 54, 93, 0.12);
+  --text: #122033;
+  --muted: #4d5d73;
+  --teal: #0b7a38;
+  --rose: #c62828;
+  --amber: #b8860b;
+  --slate: #5c6778;
+  --font-sans: var(--font-geist-sans), "Source Sans 3", sans-serif;
+  --font-display: var(--font-newsreader), "Playfair Display", serif;
+}
+
+@theme inline {
+  --color-background: var(--bg);
+  --color-foreground: var(--text);
+  --font-sans: var(--font-sans);
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100%;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg);
+  background-image:
+    radial-gradient(circle at 50% 0%, rgba(0, 39, 118, 0.05), transparent 36%),
+    linear-gradient(180deg, #f7f4ea 0%, #f3f0e4 100%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+}
+
+.civic-stripe {
+  height: 5px;
+  background: linear-gradient(
+    90deg,
+    #009b3a 0 33.33%,
+    #ffdf00 33.33% 66.66%,
+    #002776 66.66% 100%
+  );
+}
+
+.orb-stars {
+  background-image: radial-gradient(circle at 50% 50%, #002776 0 1px, transparent 1.4px);
+  background-size: 20px 20px;
+  mask-image: radial-gradient(circle at 50% 30%, black 0 36%, transparent 70%);
+  opacity: 0.08;
+  pointer-events: none;
+}
+
+.verdict-verdadeiro,
+.verdict-fato {
+  background: #e6f6ea;
+  color: #0b6b2c;
+  border-color: #8fd4a3;
+}
+
+.verdict-falso,
+.verdict-fake,
+.verdict-insustentavel {
+  background: #fde8e8;
+  color: #9b1c1c;
+  border-color: #f0a0a0;
+}
+
+.verdict-exagerado,
+.verdict-impreciso,
+.verdict-contexto,
+.verdict-divergente {
+  background: #fff4d6;
+  color: #7a5b00;
+  border-color: #e6c96a;
+}
+
+.verdict-inconclusivo {
+  background: #eef1f4;
+  color: #3e4a59;
+  border-color: #c5ccd4;
+}
+
+@keyframes pulse-live {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.35;
+  }
+}
+
+.live-dot {
+  animation: pulse-live 1.4s ease-in-out infinite;
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.rise-in {
+  animation: rise-in 0.45s ease both;
+}
+
+.score-num {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.04em;
+}

@@ -1,0 +1,89 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+coverage/
+
+# next.js / build output
+.next/
+out/
+build/
+dist/
+.turbo/
+
+# env files — never commit real hosts or secrets
+.env
+.env.*
+!.env.example
+
+# secrets / credentials / keys
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+id_rsa
+id_ed25519
+*credentials*
+*secret*
+secrets/
+.secrets/
+
+# vercel / typescript
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
+# debug / logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.log
+logs/
+
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Cursor local rules (deploy playbook names origin hosts)
+.cursor/
+
+# operational origin-host files (absolute paths, launchd)
+scripts/*.plist
+start-prod.sh
+
+# local scrape cache
+.firecrawl/
+
+# frozen debate archive (written on the host at cutoff)
+/data/offline-snapshot.json
+/data/offline.lock
+/data/last-good-feed.json
+/data/*.dryrun.json
+/data/*.tmp
+/public/offline/*.png
+!/data/.gitkeep
+!/public/offline/.gitkeep
+
+# notebook / python caches (keep notebooks/ and public/laboratorio/)
+.ipynb_checkpoints/
+notebooks/_build/
+__pycache__/
+*.py[cod]
+.venv/
+venv/

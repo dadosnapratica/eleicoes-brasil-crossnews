@@ -1,0 +1,210 @@
+{
+  "gerado_em": "2026-10-24T03:02:16.503195+00:00",
+  "nota": "Recorte didático dos dumps brutos em .firecrawl/ (gitignored). Os arquivos originais são páginas de metodologia/liveblog; as checagens ao vivo da noite estão em checagens_debate.json.",
+  "fontes": [
+    {
+      "arquivo": "g1-debate-fato-ou-fake.json",
+      "mesa": "G1 Fato ou Fake",
+      "sourceURL": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/22/saiba-como-o-fato-ou-fake-checara-declaracoes-dos-candidatos-no-debate-de-2-turno-da-globo.ghtml",
+      "title": "Debate da Globo vai ter checagem do Fato ou Fake | G1",
+      "description": "Primeiras checagens serão publicadas ainda durante o debate na noite de sexta, e trabalho seguirá pela madrugada. ",
+      "datePublished": [
+        "2026-10-22T13:42:25.534-03:00",
+        "2026-10-22T16:33:25.041Z",
+        "2026-10-22T16:33:25.041Z",
+        "2026-10-22T16:33:25.041Z",
+        "2026-10-22T16:33:25.041Z",
+        "2026-10-22T16:33:25.041Z",
+        "2026-10-22T16:33:25.041Z"
+      ],
+      "statusCode": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "markdown_chars": 20369,
+      "links_count": 38,
+      "markdown_excerpt": "Deseja receber as notícias mais importantes em tempo real?**Ative as notificações do G1!** Agora nãoAtivar # Saiba como o Fato ou Fake checará declarações dos candidatos no debate de 2⁰ turno da Globo ## Como nas eleições municipais de 2024, as primeiras checagens serão publicadas durante o debate no g1 e nos sites dos jornais 'O Globo', 'Valor Econômico' e 'Extra' e da rádio CBN. Afirmações de Lula e Flávio Bolsonaro serão classificadas como \\#FATO, \\#FAKE ou \\#NÃOÉBEMASSIM. Por g1, TV Globo, GloboNews, O Globo, Valor, Extra e CBN 22/10/2026 13h42 Atualizado há 3 horas * * * Assista também no Assista ao próximo Cancelar Assista também Reveja Sair do vídeo Título: \"Fato ou Fake\" fará checagens das falas dos candidatos à presidência durante o debate Subtítulo: Jornal Hoje 10 10 Assistir agoraPular ResumoPular AberturaAssistir do início 00:00/01:58 AGORA Use as teclas para avançar Minimizar vídeo Espelhar em outro dispositivo Carregando \"Fato ou Fake\" fará checagens das falas dos candidatos à presidência durante o debate O **Fato ou Fake**, serviço de checagem do Grupo Globo, preparou uma cobertura especial para verificar as declarações dos candidatos Lula ( PT) e Flávio Bolsonaro ( PL) durante o debate da **TV Globo**, nesta sexta-feira (23). **AO VIVO:** Acompanhe o último debate entre Lula e Flávio Bolsonaro Uma equipe de mais de 30 jornalistas do **Grupo Globo** vai trabalhar em conjunto para dar agilidade ao processo, sem abrir mão do rigor na apuração. Como nas eleições municipais de 2024, as primeiras checagens serão publicadas durante o debate no **g1** e nos sites dos jornais \"O Globo\", \"Valor Econômico\" e \"Extra\" e da rádio CBN. O trabalho vai continuar pela madrugada, até que toda a apuração seja concluída. A GloboNews terá um programa especial que vai ao ar logo após o debate e vai mostrar as checagens realizadas pela equipe do **Fato ou Fake**. Criado em 2018, o **Fato ou Fake** reúne profissionais das sete redações do **Grupo Globo** — **TV Globo**, **g1**, GloboNews, \"O Globo\", \"Valor\", \"Extra\" e CBN — e checa declarações de candidatos durante debates desde as eleições presidenciais de 2018. ## Como esse trabalho funciona? /i.s3.glbimg.com/v1/AUTH_5",
+      "formato_firecrawl": [
+        "markdown",
+        "metadata",
+        "links"
+      ]
+    },
+    {
+      "arquivo": "uol-confere-radar.json",
+      "mesa": "UOL Confere / Radar da Eleição",
+      "sourceURL": "https://noticias.uol.com.br/ao-vivo/2026/10/23/radar-da-eleicao-lula-e-flavio-debatem-na-globo-uol-confere-faz-checagem.htm",
+      "title": "Radar da Eleição: Lula e Flávio debatem na Globo; UOL Confere faz checagem",
+      "description": "Veja as principais notícias e manchetes do dia no Brasil e no Mundo. Leia textos e assista a vídeos de Política, Cotidiano, Crimes e mais.",
+      "datePublished": null,
+      "statusCode": 200,
+      "contentType": "text/html;charset=UTF-8",
+      "markdown_chars": 34141,
+      "links_count": 224,
+      "markdown_excerpt": "Acessar a página inicial - Seu time - Seu signo - Eleições 2026 - Dólar4,993 Entre Assine UOL Logo UOL - Home UOL - Produtos - UOL+ - UOL Play - TV Online - Universal+ - Champions League - UOL Drive - UOL Assistência Técnica - UOL Resolve - UOL Antivírus - Bate-Papo UOL - UOL Sexo - UOL Mail - Clube UOL - UOL ADS - UOL Host - Domínio - Loja Virtual - Criador de Sites - E-mail Profissional - UOL Afiliados - Flash - Eleições - Agregador de Pesquisas - Apuração das Eleições - Debates - Pesquisas Eleitorais - Radar das Eleições - Sabatinas UOL/Folha - UOL Confere nas Eleições - Notícias - Colunas - Cotidiano - Calculadoras - Educação - Eleições - Governo Lula - Internacional - Previsão do tempo - Saúde - UOL Confere - Newsletters - Últimas notícias - Loterias - Podcasts - A Hora - UOL Prime - Posse de Bola - Desculpa Alguma Coisa - Divã de CNPJ - Mídia e Marketing - Política - Colunas - UOL Confere - Governo Lula - Carros - IPVA - Lançamentos e Mercado - Avaliação de Carros - Tabela Fipe - Comparativo - Legislação, Multas e Trânsito - Eletrificados - Manutenção e Segurança - Carros curiosos - Carro dos famosos - Últimas - Newsletters - Economia - Cotações - Investimentos - Empresas e Negócios - Empreendedorismo - UOL Líderes - Mídia e Marketing - Divã de CNPJ - Folha - Política - Economia - Mundo - Cotidiano - Equilíbrio - Cultura - F5 - Esporte - Podcasts - Colunas e blogs - Esporte - Futebol - Jogos de Hoje - Brasileirão - Libertadores - Copa do Brasil - Sul-Americana - Liga dos Campeões - Mais campeonatos - Mercado da Bola - Times - Mais Esporte - Fórmula 1 - MMA - Tênis - Últimas notícias - Assine e veja ao vivo - NBA - Splash - UOL Splash - Celebs - Televisão - Novelas - Reality shows - Filmes - Séries - Aba Anônima - Colunas - Vídeos - Últimas - Universa - Materna - Desculpa Alguma Coisa - Maria vai com os Outros - Lab da Beleza - Universa Talks - Horóscopo - Newsletters - Colunas - Últimas - VivaBem - Newsletters - Colunas - Últimas - Guia de Supermercado - Bula de Remédio - Cardápio - Guia de Doenças - Tilt - Colunas - Últimas - Ecoa - Colunas - Últimas - Canal UOL - Nossa - Bares e Restaurantes - Casa - Cozinha - Viagem - Boa Vida - Especiais - Vamos de Vin",
+      "formato_firecrawl": [
+        "markdown",
+        "metadata",
+        "links",
+        "rawHtml"
+      ],
+      "vueland_cards": [
+        {
+          "id": "card_692312484_1792802458362",
+          "title": "Charleaux: comportamento dos candidatos pesará na decisão do público",
+          "author": "João Paulo Charleaux, colunista do UOL",
+          "content": "João Paulo Charleaux, colunista do UOL, diz que o público analisará o comportamento de Lula e Flávio em debate na Globo. \"Eu acho que a absorção de conteúdo no debate é muito mais subjetiva em relação ao tom de voz, postura, a maneira como se comporta, como fala. São impressões que ficam gravadas na subjetividade de quem assiste. São sensações, são emoções, muito mais do que o conteúdo duro das pr",
+          "type": "text",
+          "date": 1792802458362
+        },
+        {
+          "id": "card_1932923673_1792802369396",
+          "title": "Começa debate da Globo entre Lula e Flávio",
+          "author": "Luccas Lucena, do UOL, em São Paulo",
+          "content": "Começa o debate da Globo, o segundo e último do segundo turno entre Lula e Flávio.",
+          "type": "text",
+          "date": 1792802369396
+        },
+        {
+          "id": "card_343351849_1792801683215",
+          "title": "Flávio chega a palco de debate com Daniella Marques e Tarcísio de Freitas",
+          "author": "Gilvan Marques, repórter do UOL, em São Paulo",
+          "content": "",
+          "type": "photo",
+          "date": 1792801683215
+        },
+        {
+          "id": "card_1932923673_1792801603017",
+          "title": "Lula no palco do debate com o senador Camilo Santana (PT-CE), o governador do Piauí, Rafael Fonteles (PT), e o fotógrafo Ricardo Stuckert",
+          "author": "Thais Bilenky, colunista do UOL, no Rio de Janeiro",
+          "content": "",
+          "type": "photo",
+          "date": 1792801603017
+        },
+        {
+          "id": "card_692312484_1792800339712",
+          "title": "Alexandre Borges: \"Que Lula e Flavio se desculpem por debate 'horroroso' na Band\"",
+          "author": "Alexandre Borges, colunista do UOL",
+          "content": "Começou o Radar da Eleição, do UOL. Em sua primeira consideração, o colunista Alexandre Borges opinou que Lula (PT) e Flávio Bolsonaro (PL) deveriam abrir o debate pedindo desculpas ao eleitor brasileiro. “A minha expectativa é que seja um debate melhor do que foi o da Band, porque pior não dá para ser, né? O da Band foi horroroso, né? Me deu o que eu chamo de náusea cívica [...] Uma expectativa q",
+          "type": "text",
+          "date": 1792801140000
+        },
+        {
+          "id": "card_343351849_1792800916383",
+          "title": "Mãe de menina Ana Clara está na plateia de debate presidencial da Globo",
+          "author": "",
+          "content": "",
+          "type": "photo",
+          "date": 1792800916383
+        },
+        {
+          "id": "card_1932923673_1792800077485",
+          "title": "Apoiadores de Flávio e Lula perto dos estúdios da Globo antes de debate",
+          "author": "Luccas Lucena, do UOL, em São Paulo",
+          "content": "",
+          "type": "photo",
+          "date": 1792800077485
+        },
+        {
+          "id": "card_343351849_1792799280543",
+          "title": "Flávio e Lula chegam para debate presidencial nos Estúdios Globo",
+          "author": "Gilvan Marques, repórter do UOL, em São Paulo",
+          "content": "",
+          "type": "photo",
+          "date": 1792799280543
+        },
+        {
+          "id": "card_1932923673_1792799140748",
+          "title": "Ao lado do irmão Carlos Bolsonaro (PL) e Daniella Marques, Flávio está nos Estúdios Globo para debate",
+          "author": "Luccas Lucena, do UOL, em São Paulo",
+          "content": "",
+          "type": "photo",
+          "date": 1792799140748
+        },
+        {
+          "id": "card_1932923673_1792798819482",
+          "title": "Lula chega para debate da Globo; presidente está sem gravata",
+          "author": "Luccas Lucena, do UOL, em São Paulo",
+          "content": "",
+          "type": "photo",
+          "date": 1792798819482
+        },
+        {
+          "id": "card_1932923673_1792798336175",
+          "title": "Estúdio da Globo pronto para o debate entre Lula e Flávio",
+          "author": "Luccas Lucena, do UOL, em São Paulo",
+          "content": "",
+          "type": "photo",
+          "date": 1792798336175
+        },
+        {
+          "id": "card_1000959706_1792798291051",
+          "title": "Flávio leva governadores eleitos e deixa Marçal de fora do debate da Globo",
+          "author": "Letícia Casado, colunista do UOL",
+          "content": "A comitiva de Flávio Bolsonaro (PL) para o debate da TV Globo inclui governadores eleitos no primeiro turno e deixa de fora o influenciador Pablo Marçal, que acompanhou o presidenciável no debate da TV Bandeirantes. A lista inclui governadores os eleitos por: São Paulo, Tarcísio de Freitas (Republicanos); Rio de Janeiro, Douglas Ruas (PL); Minas Gerais, Cleitinho Azevedo (Republicanos); Rio Grande",
+          "type": "text",
+          "date": 1792798291051
+        },
+        {
+          "id": "card_343351849_1792797885870",
+          "title": "Tarcísio e Ricardo Nunes acompanham Flávio Bolsonaro a debate da Globo",
+          "author": "Gilvan Marques, repórter do UOL, em São Paulo",
+          "content": "O governador Tarcísio de Freitas (Republicanos) e o prefeito Ricardo Nunes (MDB), que acompanham o senador Flávio Bolsonaro (PL), já estão presentes nos Estúdios Globo, local onde será realizado o debate presidencial.",
+          "type": "text",
+          "date": 1792797885870
+        },
+        {
+          "id": "card_343351849_1792796473248",
+          "title": "Flávio Bolsonaro é o primeiro candidato a chegar ao debate da Globo",
+          "author": "",
+          "content": "",
+          "type": "photo",
+          "date": 1792796473248
+        },
+        {
+          "id": "card_343351849_1792796011183",
+          "title": "Antes de debate na Globo, canal \"Exército do Lula\" bate os 10 milhões de inscritos",
+          "author": "Gilvan Marques, repórter do UOL, em São Paulo",
+          "content": "O canal \"Exército do Lula\", comandado pelo deputado André Janones (Rede-MG), aliado do presidente Lula (PT), ultrapassou na noite de hoje a marca de 10 milhões de inscritos no WhatsApp. Em vídeo publicado para comemorar o número, Janones celebrou aos gritos: \"Avisa que nós somos o maior exército democrático do mundo, que nós somos o exército do maior líder popular\". O canal se tornou um dos princi",
+          "type": "text",
+          "date": 1792796011183
+        }
+      ],
+      "nota": "Este dump do Firecrawl foi coletado no início do debate. O HTML embute o JSON #VUELAND_STATE — o adaptador do UOL lê esses cards."
+    },
+    {
+      "arquivo": "terra-aos-fatos.json",
+      "mesa": "Terra / Aos Fatos",
+      "sourceURL": "https://www.terra.com.br/noticias/eleicoes/terra-e-aos-fatos-farao-checagem-em-tempo-real-do-debate-final-entre-flavio-e-lula-na-globo,0926a643fcdeaefbd0b8647dfe2279813dfz965h.html",
+      "title": "Terra e Aos Fatos farão checagem em tempo real do debate final entre Flávio e Lula na Globo",
+      "description": "Cobertura na sexta-feira envolve checagem em tempo real no portal e nas plataformas digitais e live no Youtube",
+      "datePublished": "2026-10-22T19:10:44-03:00",
+      "statusCode": 200,
+      "contentType": "text/html; charset=utf-8",
+      "markdown_chars": 25629,
+      "links_count": 57,
+      "markdown_excerpt": "Ativar para ir para o player da Audima - Ir ao conteúdo Seu Terra Sair Aproveite e configure suas preferências Conteúdos do Portal Configurações do Portal Inscreva-se no Whatsapp do Terra Terra ServiçosAcesse seus serviços e aproveite o máximo dos seus benefícios oferecidos Acessar Central do Assinante Acessar Terra Astral Acessar e-mail do Terra Fale com o Terra 2ª via de boleto Compre pelo Whatsapp Conheça nossos produtos VoltarTema de cor ### Escolha seu tema Escolha sua cor favorita para personalizar a interface! Selecione o tema abaixo e veja uma prévia instantânea. - Menta Suave - Rosa Neon - Gen-Z Yellow - Lavanda Intensa - Peach Fuzz - Terra PUBLICIDADE ** ** - Pesquisas - Apuração - Terra Responde - Checamos - O Brasil Que Eles Querem Publicidade Notícias relacionadas **André Janones deixa UTI de hospital e diz que Lula 'não é obrigado a saber usar as redes sociais'** **Quaest divulga nova pesquisa presidencial nesta quarta-feira; saiba o horário** **Flávio x Lula: o que indicam as pesquisas presidenciais divulgadas nesta segunda-feira** # Terra e Aos Fatos farão checagem em tempo real do debate final entre Flávio e Lula na Globo ## Cobertura na sexta-feira envolve checagem em tempo real no portal e nas plataformas digitais e live no Youtube 22 out2026 \\- 19h10 (atualizado às 19h11) Compartilhar Exibir comentários - -1jy7orqt0u4hi.png)Por:Redação Terra Candidatos à presidencia da República - Flávio Bolsonaro (PL) e Luiz Inacio Lula da Silva (PT). Fotos Werther Santana/Estadão Foto: Werther Santana/Estadão / Estadão O **Terra** e **Aos Fatos**, organização jornalística dedicada ao combate à desinformação, à cobertura da tecnopolítica e à checagem de fatos, farão checagens em tempo real nesta sexta-feira, 23, do último debate presidencial antes do segundo turno entre Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT), na TV Globo às 21h20. > _**Como justificar a ausência na votação? Voto nulo cancela a eleição? Tire essas e outras dúvidas no Terra Responde**_ Os veículos verificarão todas as declarações dos candidatos e o conteúdo será disponibilizado em tempo real no portal, no canal do WhatsApp e nos perfis @terragora no Instagram e no TikTok. Notíc",
+      "formato_firecrawl": [
+        "markdown",
+        "metadata",
+        "links"
+      ]
+    },
+    {
+      "arquivo": "folha-lupa.json",
+      "mesa": "Folha / Agência Lupa",
+      "sourceURL": "https://www1.folha.uol.com.br/poder/2026/10/folha-e-agencia-lupa-farao-checagem-ao-vivo-durante-debate-da-tv-globo.shtml",
+      "title": "Folha e Agência Lupa farão checagem no debate da Globo - 22/10/2026 - Política - Folha",
+      "description": "Confronto na televisão entre os candidatos Lula (PT) e Flávio Bolsonaro (PL) será nesta sexta-feira (23), Confronto na televisão entre os candidatos Lula (PT) e Flávio Bolsonaro (PL) será nesta sexta-feira (23)",
+      "datePublished": null,
+      "statusCode": 200,
+      "contentType": "text/html",
+      "markdown_chars": 23475,
+      "links_count": 63,
+      "markdown_excerpt": "Baixe o app da Folha de S.Paulo de graça\\\\ BAIXAR Últimas notícias Gostaria de receber as principais notícias do Brasil e do mundo? - Não, obrigado - Sim, aceito Últimas notícias Gostaria de receber as principais notícias do Brasil e do mundo? - Não, obrigado - Sim, aceito Acesse seus artigos salvos em **Minha Folha**, sua área personalizada Acesse os artigos do assunto seguido na **Minha Folha**, sua área personalizada OFERTA ESPECIAL FOLHA Conecte-se ao jornal mais influente do Brasil Apenas R$ 1,90 no 1º mês +6 meses de R$ 9,90/mês ASSINE A FOLHA Últimas notícias Gostaria de receber as principais notícias do Brasil e do mundo? - Não, obrigado - Sim, aceito Folha de S.Paulo Assine Fechar sidebar menu - Entrar - Minha Folha - Minha playlist - Newsletters - Minha assinatura - Forma de Pagamento - Editar senha e conta - Atendimento - Clube Folha - Casa Folha - Sair - United States of America flagEnglish edition - Edición en español - dê um conteúdo benefício do assinante Você tem **7 acessos por dia** para dar de presente. Qualquer pessoa que não é assinante poderá ler. Carregando... benefício do assinante Assinantes podem liberar **7 acessos por dia** para conteúdos da Folha. Já é assinante? Faça seu login ASSINE A FOLHA - WhatsApp - - Copiar link - Salvar para ler depois Salvar artigos Recurso exclusivo para assinantes assine ou faça login - 5 22.out.2026 às 13h51 - Edição Impressa - Diminuir fonte Aumentar fonte **Clayton Castelani** **São Paulo** A **Folha** e a Agência Lupa farão checagens de declarações dos candidatos durante o último debate presidencial, da TV Globo, nesta sexta-feira (23). O confronto entre Luiz Inácio Lula da Silva ( PT) e Flávio Bolsonaro ( PL) ocorrerá após o Jornal Nacional. Cada afirmação analisada receberá uma etiqueta de classificação, de verdadeira, falsa, exagerada ou se falta contexto. O leitor encontrará uma breve explicação sobre o fato e o link para a análise detalhada no site da Lupa. As análises ocorrerão durante o debate e prosseguirão após o encerramento do programa, até que a verificação seja concluída. - Acompanhe na **Folha** em tempo real a apuração do 2º turno das eleições O senador Flávio Bolsonaro (PL) e o presiden",
+      "formato_firecrawl": [
+        "markdown",
+        "metadata",
+        "links"
+      ]
+    }
+  ]
+}
